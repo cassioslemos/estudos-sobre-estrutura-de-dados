@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554844252 source:c:\users\cássio fehlberg\documents\programação\algoritmo_dijksta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
