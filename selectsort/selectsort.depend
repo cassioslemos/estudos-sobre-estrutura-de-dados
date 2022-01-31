@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539467335 source:c:\users\cássio fehlberg\documents\programação\selectsort\main.c
+	<stdio.h>
+	<stdlib.h>
+

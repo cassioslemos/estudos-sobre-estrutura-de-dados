@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1544234388 source:c:\users\cássio fehlberg\documents\programação\arvoreavl\main.c
+	<stdio.h>
+	<stdlib.h>
+
